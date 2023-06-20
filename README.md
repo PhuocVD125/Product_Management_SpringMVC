@@ -1,7 +1,7 @@
 # Product_Management_Demo
-This is simple Spring MVC product/n
-The project provides a solution to manage items in the warehouse with CRUD methods/n
+This is simple Spring MVC product.<br>
+The project provides a solution to manage items in the warehouse with CRUD methods.<br>
 
-How to run the project ?/n
-Step 1: Run sql.db in src to create a database using mysql./n
-Step 2: Open project in your IDE and run project
+How to run the project ?<br>
+Step 1: Run sql.db in src to create a database using mysql.<br>
+Step 2: Open project in your IDE and run project.<br>

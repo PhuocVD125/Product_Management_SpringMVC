@@ -1,5 +1,5 @@
 # Product_Management_Demo
-This is simple Spring MVC product.<br>
+This is simple Spring MVC project.<br>
 The project provides a solution to manage items in the warehouse with CRUD methods.<br>
 
 How to run the project ?<br>
